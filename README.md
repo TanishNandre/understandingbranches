@@ -1,3 +1,3 @@
 # understandingbranches
 as the name suggests
-making first branch successful
+making second branch successful
